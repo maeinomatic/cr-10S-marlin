@@ -7,6 +7,6 @@ No bl-touch in this one. If you want to use that for bed leveling, you have to c
 My config is in the config_files directory
 
 
-the firmware version is marlin 2.0.9.6
-to install, put the firmware-20230527-185402.bin on your sd card with nothing else on it, put the card into your turned off printer, turn it on and wait a few seconds for it to boot into marlin. 
+the firmware version is marlin 2.0.9.6.
+To install, put the firmware-20230527-185402.bin on your sd card with nothing else on it, put the card into your turned off printer, turn it on and wait a few seconds for it to boot into marlin. 
 That's it, dont forget to remove the file from the sd card when you're done, unless you want to flash it again.
